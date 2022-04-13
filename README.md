@@ -30,6 +30,8 @@
   ![doogun's github stats](https://github-readme-stats.vercel.app/api?username=doogun&show_icons=true)
     
   
-  
+  <br>
+  [![Solved.ac
+doogun](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
   
 </div>
