@@ -31,5 +31,9 @@
 kjmk1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmk1007)](https://solved.ac/kjmk1007)
     
   
+  <br>
+  
+  <img src="http://mazandi.herokuapp.com/api?handle={kjmk1007}&theme=warm"/>
+  
   
 </div>
