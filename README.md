@@ -27,11 +27,9 @@
   
   <br>
   
-  ![doogun's github stats](https://github-readme-stats.vercel.app/api?username=doogun&show_icons=true)
+  [![Solved.ac
+kjmk1007](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjmk1007)](https://solved.ac/kjmk1007)
     
   
-  <br>
-  [![Solved.ac
-doogun](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
   
 </div>
