@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dogeon's%20GitHub&fontSize=90) 
   
-  <Strong>☁️doogun☁️</Strong><br><br>
+  <Strong>☁️doogun☁️</Strong><br>
   
   <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/soargun/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
