@@ -28,7 +28,7 @@
   <br>
   
   [![Solved.ac
-kjmk1007](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjmk1007)](https://solved.ac/kjmk1007)
+kjmk1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmk1007)](https://solved.ac/kjmk1007)
     
   
   
