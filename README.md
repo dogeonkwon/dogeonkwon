@@ -8,7 +8,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoogun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
   
-  <Strong>🌱Studying🌱</Strong><br>
+  <br><Strong>🌱Studying🌱</Strong><br>
   
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=black">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
   
-  <Strong>⚒️Tools⚒️</Strong><br>
+  <br><Strong>⚒️Tools⚒️</Strong><br>
   
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=black">
