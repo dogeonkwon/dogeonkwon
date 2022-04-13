@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=black">
   <br>
   
-  ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+  ![doogun's github stats](https://github-readme-stats.vercel.app/api?username=doogun&show_icons=true)
     
   
   
