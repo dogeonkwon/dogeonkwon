@@ -19,7 +19,7 @@
   
   <br><Strong>⚒️Tools⚒️</Strong><br>
   
-  <img src="https://img.shields.io/badge/GitHub-0C1528?style=for-the-badge&logo=GitHub&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub-02458D?style=for-the-badge&logo=GitHub&logoColor=black">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=black">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black">
   <img src="https://img.shields.io/badge/PyCharm-1DA456?style=for-the-badge&logo=PyCharm&logoColor=black">
