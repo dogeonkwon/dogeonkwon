@@ -29,15 +29,5 @@
   
   [![Solved.ac
 kjmk1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmk1007)](https://solved.ac/kjmk1007)
-    
-
-  <br>
-  
-  ![doogun's github stats](https://github-readme-stats.vercel.app/api?username=doogun&show_icons=true)
-  
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doogun)](https://github.com/doogun/github-readme-stats)
-
   
 </div>
