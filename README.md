@@ -2,12 +2,12 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dogeon's%20GitHub&fontSize=90) 
   
-  <Strong>☁️doogun☁️</Strong><br>
+  <Strong>☁️dogeon☁️</Strong><br>
   
 
   <br><Strong>🌱Studying🌱</Strong><br>
   
-  <img src="https://img.shields.io/badge/React-61DAFB=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=black">
