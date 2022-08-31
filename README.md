@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dogeon's%20GitHub&fontSize=90) 
   
-  <Strong>☁️dogeon☁️</Strong><br>
+  <Strong>☁️dogeonkwon☁️</Strong><br>
   
 
   <br><Strong>🌱Studying🌱</Strong><br>
