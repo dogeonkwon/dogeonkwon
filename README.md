@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub-02458D?style=for-the-badge&logo=GitHub&logoColor=black">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=black">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black">
   <img src="https://img.shields.io/badge/PyCharm-1DA456?style=for-the-badge&logo=PyCharm&logoColor=black">
   <br>
